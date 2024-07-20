@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Switchclass1 {
     public static void main(String[] args) {
 
-        Scanner ab=new Scanner(system.in);
+        Scanner ab=new Scanner(System.in);
 
         int day=ab.nextInt();
 

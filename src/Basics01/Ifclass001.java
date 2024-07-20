@@ -31,14 +31,17 @@ public class Ifclass001 {
         }**/
 
         char i='a';
+        char j='a';
 
-        //if(i == 'a' || i == 'e' || i ='o'||i='u') {
-       //     System.out.println("the i value is ---> an vowel" + i);
-       // }
 
-        if(i='a' || i='b')
+        //if(i == 'a' || i == 'e' || i =='o'||i=='u') {
+          //  System.out.println("the i value is ---> an vowel" + i);
+      //  }
+
+        if(i == j)
         {
-            
+            System.out.println("in the if class");
+
         }
     }
 }
