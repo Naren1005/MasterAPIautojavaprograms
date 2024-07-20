@@ -16,5 +16,6 @@ public class vindhiya {
         }
         max=(num1>num2)? num1 : num2;
         System.out.println("biggest number among numb1 and num2 is :" + max);
+        System.out.println("happy");
     }
 }
